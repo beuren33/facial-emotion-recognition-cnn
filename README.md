@@ -61,7 +61,7 @@ Em ambos os casos a janela do OpenCV abre a webcam e a tecla `q` encerra a execu
 ## Estrutura do projeto
 
 ```
-reconhecedor-emocoes-webcam/
+facial-emotion-recognition-cnn/
 ├── webcam_predict.py   # reconhecimento de emocao em tempo real
 ├── test_face.py        # apenas a deteccao de face com Haar Cascade
 ├── requirements.txt
